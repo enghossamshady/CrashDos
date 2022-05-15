@@ -1,6 +1,6 @@
 # CrashDos
 
-### only for joking
+### only for joking and fun
 this file is an automated file for windows and only make a loop with many orders in the same time                                   
 that makes the RAM crash and it's very hard to make this file stop unless you stoped the device                                        and restarted it again 
 
